@@ -196,5 +196,3 @@ xgboost
 lightgbm
 catboost
 tqdm
-## Author
-Mariam-abd-elhady
